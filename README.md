@@ -8,5 +8,5 @@ Most examples will be in Jupyter (iPython) notebook
 * Jongmin Lee
 
 # Requirements
-numpy, scipy, opencv (opencv-python), Jupyter, matplotlib
+numpy, scipy, opencv (opencv-python), Jupyter, matplotlib, pytorch
 
